@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    width: 100%;
+    height: 70px;
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 12px;
+    margin-left: 20px;
+    margin-right: 70px;
+}
+
+li{
+    display: inline-block;
+    padding:15px 30px
+}
+a{
+    text-decoration: none;
+    color: rgb(20, 16, 16);
+    text-align: center;
+    font-size: 15px;
+}
+section{
+    height:300px;
+    padding-bottom: 400px;
+    
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+.name-highlight{
+  color:darkslategray;
+  font-size: 50px;
+}
+p{
+    color: rgb(122, 120, 120);
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+.button{
+
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(66, 61, 61), rgb(221, 199, 199));
+    padding: 16px 35px;
+    border-radius: 5px;
+    color:rgb(75, 68, 68);
+    font-weight: 500;
+}
+.block{
+    width: 40%;
+    float: left;
+    margin-left: 77px;
+    padding-left: 10px;
+}
+.block img{
+    width: 100%;
+    padding-right: 10px;
+}
+.highlight{
+    color:darkslategray;
+    font-size: 49px;
+
+}
+.bottom h1{
+    text-align: center;
+
+}
+.template{
+    width: 23%;
+    float: left;
+    margin-left: 112px;
+    padding-left: 2px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 16px;
+}
+.template img{
+    width: 100%;
+}
+.template p{
+    color: rgb(92, 88, 88);
+} 
+.bottom{
+    background-color: ghostwhite;
+    padding-top: 30px;
+    
+}
+.last-part{
+background-image: url(img/images/bar.png);
+background-repeat: no-repeat;
+padding-left: 10px;
+margin:20%;
+background-size: 100%;
+}
+.work{
+     
+    float: left;
+    padding-top: 30px;
+    color: #786d6d;
+    padding-left: 37px;
+}
+#tab{
+    margin-left: 232px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(87 76 76), rgb(221, 199, 1990));
+    padding: 16px 35px;
+    border-radius: 5px;
+    color: rgb(75, 68, 68);
+    font-weight: 518px;
+    font-size: 18px;
+    float: left;
+    height: auto;
+    margin-top: 70px;
+}
+footer{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 400px;
+    color: #5d4f4f;
+}
+
+    
+
+
+
+
+
+
+
+   
+
